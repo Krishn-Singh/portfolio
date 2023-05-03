@@ -8,7 +8,7 @@ const Navbar = () => {
             Krish Portfolio
           </Link>
         </div>
-        <a href="" className="cta-btn" download="krishnavirsingh.pdf">Resume</a>
+        <a href='https://drive.google.com/file/d/1zdjJVg1ZkCNnHnn2xcHMR7xsObCleRY-/view?usp=share_link' className="cta-btn" download>Resume</a>
       </div>
     )
   }
